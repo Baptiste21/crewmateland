@@ -1,0 +1,11 @@
+body {
+    background-image:url(images/fondecran.png);
+    background-size: cover;
+    
+}
+.discord_invite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+}
